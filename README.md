@@ -74,7 +74,7 @@ PC의 상태를 ESP32로 전달해 주는 백그라운드 프로그램입니다.
 1. Visual Studio를 사용하여 `PC_Client/` 폴더의 프로젝트를 엽니다.
 2. `Program.cs` 파일 내의 `espBaseUrl` 변수를 ESP32의 IP 주소로 변경합니다.
    ```csharp
-   private readonly string espBaseUrl = "http://192.168.0.166"; // 확인한 ESP32 IP로 변경
+   private readonly string espBaseUrl = "http://192.168.x.x"; // 확인한 ESP32 IP로 변경
    ```
 3. 프로젝트를 빌드하고 실행합니다. (시작 프로그램에 등록해두면 PC 부팅 시 자동 실행되어 편리합니다.)
 
