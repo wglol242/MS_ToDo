@@ -97,6 +97,9 @@ PC의 상태를 ESP32로 전달해 주는 백그라운드 프로그램입니다.
 ![KakaoTalk_20260302_140519458](https://github.com/user-attachments/assets/a1f022d8-fecb-4e0a-b0c8-cc4232b140c0)
 <br><br>
 ![KakaoTalk_20260302_140519458_02](https://github.com/user-attachments/assets/2f185d93-00b5-404a-81ab-2275508d5e99)
+<br><br>
+![Image](https://github.com/user-attachments/assets/bcb6e4b0-828b-4f42-bb1b-66a2b9a63366)
+<br><br>
 
 ---
 
