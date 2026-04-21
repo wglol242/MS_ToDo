@@ -81,7 +81,7 @@ Clock / Todo / Music 화면을 전환할 수 있도록 설계했습니다.
 - 3D 프린팅 케이스 설계
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8cda2208-d880-4fb7-9245-b7cddeee51d8" width="700"/>
+  <img src="https://github.com/user-attachments/assets/a50b6474-f033-4a5d-bff8-4ce1c31cde4c" width="700"/>
 </p>
 
 ---
